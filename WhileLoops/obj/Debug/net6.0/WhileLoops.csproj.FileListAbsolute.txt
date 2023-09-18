@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\bin\Debug\net6.0\WhileLoops.exe
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\bin\Debug\net6.0\WhileLoops.deps.json
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\bin\Debug\net6.0\WhileLoops.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\bin\Debug\net6.0\WhileLoops.dll
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\bin\Debug\net6.0\WhileLoops.pdb
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.dll
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\refint\WhileLoops.dll
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.pdb
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\WhileLoops.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week4Loops\WhileLoops\obj\Debug\net6.0\ref\WhileLoops.dll
